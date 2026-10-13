@@ -1,0 +1,20 @@
+{
+  "device": "plughw:0,6",
+  "sensitivity": 18.0,
+  "calibration": {
+    "left": 0.06127504598453319,
+    "right": 0.0015719666038247469
+  },
+  "bindings": [
+    {
+      "side": "right",
+      "taps": 2,
+      "command": "firefox"
+    },
+    {
+      "side": "left",
+      "taps": 2,
+      "command": "terminal"
+    }
+  ]
+}
